@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaineyb
 - 👀 I’m interested in Python (Django, Flask etc) and JavaScript (React)
-- 📫 How to reach me: [kainey.co.uk/contact-me](https://kainey.co.uk/contact-me)
+- 📫 How to reach me: kaineyb at gmail
 
 <!---
 kaineyb/kaineyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
