@@ -3,7 +3,6 @@
 - 📫 How to reach me: kaineyb at google's email provider
 
 - Work github [@kaine-bruce-dmt](https://github.com/kaine-bruce-dmt)
-- 
 
 <!---
 kaineyb/kaineyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
